@@ -1,0 +1,17 @@
+{
+  "name": "png-chunks",
+  "version": "1.0.0",
+  "description": "Get/Set chunks from PNGs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "David Jokinen",
+  "license": "MIT",
+  "dependencies": {
+    "crc-32": "^1.2.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
